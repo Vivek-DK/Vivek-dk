@@ -10,13 +10,13 @@
 
 ###
 
-<br clear="both">
-
-<p align="left">✨ Building full stack applications with real users in mind  <br>🧠 Currently leveling up in system design & backend scalability  <br>🎯 Goal: Become a top-tier product engineer  <br>🎲 Fun fact: I break things fast — and fix them faster</p>
+<img align="right" height="150" src="https://camo.githubusercontent.com/c955af579f33abe5460eaf6d6af6894c4e50ce545551f7dc4a3de95551e8a3a6/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966"  />
 
 ###
 
-<img align="right" height="200" src="https://camo.githubusercontent.com/c955af579f33abe5460eaf6d6af6894c4e50ce545551f7dc4a3de95551e8a3a6/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966"  />
+<br clear="both">
+
+<p align="left">✨ Building full stack applications with real users in mind  <br>🧠 Currently leveling up in system design & backend scalability  <br>🎯 Goal: Become a top-tier product engineer  <br>🎲 Fun fact: I break things fast — and fix them faster</p>
 
 ###
 
