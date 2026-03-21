@@ -10,8 +10,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">✨ Building full stack applications with real users in mind  <br>🧠 Currently leveling up in system design & backend scalability  <br>🎯 Goal: Become a top-tier product engineer  <br>🎲 Fun fact: I break things fast - and fix them faster</p>
 
 ###
